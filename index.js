@@ -5,8 +5,6 @@ const getComputerChoice = () => {
 	else return "scissors";
 };
 
-// console.log(getComputerChoice());
-
 const getHumanChoice = () => {
 	const inp = prompt("Do you want to choose rock, paper or scissors?");
 	return inp.toLowerCase();
