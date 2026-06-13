@@ -1,0 +1,10 @@
+#humanScore,
+#computerScore {
+	padding: 10px 30px;
+	margin: 5px;
+	border: 1px solid black;
+}
+
+#scoreCard {
+	display: flex;
+}
